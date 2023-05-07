@@ -2,7 +2,7 @@
 First try at coding a Discord bot with some fun and interesting functionalities. <br>
 The bot was tested in a private Discord server with my friends, and we had a lot of fun :)
 
-<sub>_Full project repository is not shown, only main program_</sub>
+<sub>_*Full project repository is not shown, only main program_</sub>
 
 
 ## Functionalities of the bot
