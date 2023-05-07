@@ -6,7 +6,7 @@ The bot was tested in a private Discord server with my friends, and we had a lot
 
 
 ## Functionalities of the bot
-+ $ask [question]             : Replies yes or no question
++ $ask [question]<pre><pre>: Replies yes or no question
 + $coinflip                   : Flip coin
 + $duel @[person]             : Challenge person in a 1v1 math quiz
 + $duel lb                    : Check out duel leaderboards
