@@ -1,5 +1,5 @@
 # python-discord-bot
-First try at coding a Discord bot with some fun and interesting functionalities
+First try at coding a Discord bot with some fun and interesting functionalities. <br>
 The bot was tested in a private Discord server with my friends, and we had a lot of fun :)
 
 _Full project repository is not shown, only main program_
