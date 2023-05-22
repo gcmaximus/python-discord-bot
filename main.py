@@ -285,7 +285,7 @@ async def on_message(message):
         return
 
       if player2id == message.author.id:
-        await channel.send("You can't fight yourself idiot")
+        await channel.send("can't fight yourself")
         return
 
       await channel.send(f"{player2}, type $acc or $dec to accept/decline the duel.")
